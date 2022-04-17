@@ -1,4 +1,6 @@
-# SUTD Freshmore Term 1 10.014 Computational Thinking for Design 1D Project
+# SUTD Term 1 - Freshmore
+# 10.014 Computational Thinking for Design 
+# 1D Project
 
 ## Instructions
 Welcome to our game!
