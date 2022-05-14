@@ -25,12 +25,12 @@ The main objective of the game is to not die before the final question pops up. 
 
 When coming up with this game, we took into consideration existing games such as ​Reigns and ​Episode​ / ​Choices​. We wanted to incorporate the choice-based element of these games into the game we designed, while making it more fun and relevant for SUTD students.
 
+YouTube Link: https://youtu.be/WaYb59SpNLw
+
 ## Team Members
 F03 Group 6
-Sim Yu Hui, Kellie (1004204)
-Wang Xilun (1004877)
-M S Subesh Kumar (1005141)
-Cheong Cher Lynn (1005458)
-Muhammad Zulfiqar Bin Bakar (1005023)
-
-YouTube Link: https://youtu.be/WaYb59SpNLw
+* Sim Yu Hui, Kellie (1004204)
+* Wang Xilun (1004877)
+* M S Subesh Kumar (1005141)
+* Cheong Cher Lynn (1005458)
+* Muhammad Zulfiqar Bin Bakar (1005023)
